@@ -1,0 +1,13 @@
+*
+!/*
+
+!src/*
+!constr/*
+!sim/*
+!ip/*/
+!*.tcl
+!.gitignore
+
+!ip/*/*.xci
+!ip/*/*.xml
+!ip/*/*.coe
